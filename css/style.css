@@ -48,7 +48,35 @@ li {
 }
 
 .herotxt {
-    padding: 50px;
+    margin-left: 8%;
+    margin-top: 15%;
 }
 
+.herotxt h1 {
+    font-size: 22px;
+    color:#212121;
+    margin-bottom: 20px;
+    
+}
 
+.herotxt h2{
+    font-size: 50px;
+    color:#212121;
+    margin-bottom: 20px;
+    
+}
+.herotxt p{
+    color: #555;
+    line-height: 22px;
+}
+
+.herotxt a{
+    background: #212121;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    display: inline-block;
+    margin: 30px 0;
+    border-radius: 5px;
+}
